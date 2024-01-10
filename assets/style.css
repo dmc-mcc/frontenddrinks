@@ -1,4 +1,19 @@
+header {
+  color: #fafafa;
+  text-align: center;
+}
+body {
+  background-color: rgb(48, 37, 37);
+}
+
 #carouselExampleCaptions {
-    max-width: 900px ; /* Adjust the value as needed */
-    margin: auto; /* Center the carousel */
-  }
+  max-width: 600px; /* Set maximum width to the viewport width */
+  margin: auto;
+}
+
+.info-div {
+  color: #fafafa;
+}
+footer {
+  text-align: center;
+}
