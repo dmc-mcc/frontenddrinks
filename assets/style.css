@@ -79,3 +79,9 @@ footer {
 .col {
   color: #fafafa;
 }
+
+form {
+  color: #fafafa;
+  text-align: left;
+  font-family: 'Tektur', sans-serif;
+}
