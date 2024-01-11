@@ -5,7 +5,7 @@ header {
 body {
   background-color: rgb(48, 37, 37);
 }
-
+/* -------------------------------------------------------------INDEX.HTML*/
 #carouselExampleCaptions {
   max-width: 600px; /* Set maximum width to the viewport width */
   margin: auto;
@@ -24,7 +24,16 @@ body {
     text-shadow: black;
     text-size: 68px;
   }
+/* -------------------------------------------------------------Social.HTML*/
 
+.col {
+  color: #fafafa;
+}
+
+
+
+
+/* -------------------------------------------------------------Footer*/
 footer {
   text-align: center;
 }
