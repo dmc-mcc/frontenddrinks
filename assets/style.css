@@ -1,14 +1,31 @@
+/* font import for header */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Tektur&display=swap');
+
+
 header {
   color: #fafafa;
   text-align: center;
+  font-family: 'Tektur', sans-serif;
 }
+
 body {
   background-color: rgb(48, 37, 37);
+}
+
+h2 {
+  font-family: 'Tektur', sans-serif;
 }
 
 #carouselExampleCaptions {
   max-width: 600px; /* Set maximum width to the viewport width */
   margin: auto;
+}
+
+/* class for font implementation */
+.techfont {
+  font-family: 'Lato', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Tektur', sans-serif;
 }
 
 .info-div {
