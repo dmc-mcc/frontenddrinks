@@ -13,8 +13,7 @@ body {
 
 .info-div {
   color: #fafafa;
-  border: #fafafa;
-  border-style: groove;
+  margin: 25%;
 }
 footer {
   text-align: center;
