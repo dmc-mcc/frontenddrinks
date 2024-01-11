@@ -1,9 +1,63 @@
 # Front End Drinks
 
-asfdgffhdjnfhgjsgkl
+
+Front End Drinks is an online source for programming-themed cocktail recipes. This project combines the worlds of front-end development and mixology, providing a unique collection of delicious cocktails inspired by programming concepts.
 
 
-Front End Drinks is a website project dedicated to providing recipes for different drinks and cocktails with programming naming conventions and aesthetics to appeal to coders. The project consists of HTML, CSS, and Bootstrap and consists of [include pages here]. The end goal of this project is to provide a minimum viable product that will allow users to find recipes for drinks 
+– Introduction –
+
+Front End Drinks brings together the domains of programming and mixology aimed at an audience of front-end developers looking for a refreshing drink or cocktail enthusiasts interested in coding. The project incorporates HTML, CSS, and Bootstrap to create a clear, functional minimum viable product.
+
+You can use the website to browse a series of cocktail recipes, each inspired with a programming theme. We aimed to create a cohesive theme and aesthetic that is both fun and practical and that challenges us to make use of the skills we have acquired so far as programmers.
+
+
+– Features –
+
+(We can add images here to illustrate our features.)
+
+Home Page: A main page that includes a hero image, nav bar, and footer. Clarity and accessibility are the key priorities in the design of this page.
+
+Cocktail Recipes: A variety of cocktail recipes with a programming twist as well as a Drink of the Day which features the newest entry to our recipe list.
+
+Responsive Design: The website is designed to be accessible and visually appealing across various devices.
+
+Easy-to-Use Interface: Intuitive navigation for a seamless user experience.
+
+Bootstrap carousel: An integrated carousel of images of the programming themed cocktails.
+
+
+– Table of Contents
+
+(TO BE INCLUDED)
+
+
+– How to Use –
+
+Open the website address in your web browser.
+
+Browse through the web page..
+
+Click Drinks to view its details  and preparation instructions.
+
+Sign up for the Drink of the Day using the form provided.
+
+
+– How to Contribute –
+
+(This was recommended by most README guides but I’m not sure if it’s relevant.)
+
+– Credits –
+
+Donal
+
+Gordon
+
+Mel
+
+– License –
+
+(Consult with team.)
+
 
 In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
 
