@@ -66,6 +66,8 @@ ol {
 
 footer {
   text-align: center;
+  margin-top: 20px;
+ 
 }
 
 #social-networks {
@@ -105,4 +107,16 @@ form {
   color: #fafafa;
   text-align: left;
   font-family: 'Tektur', sans-serif;
+}
+
+.sub-now h2{
+  color: #fafafa;
+  text-align: center;
+  margin: 20px;
+}
+
+.sub-now h4{
+  color: #fafafa;
+  text-align: center;
+  margin: 20px;
 }
