@@ -39,11 +39,19 @@ Social
 
 Sign Up Here
 
+- Presentation Slides - 
+
+https://1drv.ms/p/s!AjutN5926PZkg36i1cqtgXruHkPa?e=pXihUj&nav=eyJzSWQiOjI1OSwiY0lkIjozOTI4NDU5MDEzfQ
+
+- Link to Website -
+
+https://dmc-mcc.github.io/frontenddrinks/menu.html
+
 – How to Use –
 
 Open the website address in your web browser.
 
-Browse through the web page..
+Browse through the web page.
 
 Click Drinks to view its details  and preparation instructions.
 
